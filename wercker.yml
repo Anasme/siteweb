@@ -7,8 +7,10 @@ build:
         flags: --buildDrafts=true
 deploy:
   steps:
-    - uetchy/gh-pages:
-        token: $GITHUB_TOKEN
-        repo: Anasme/anasme.github.io
-        branch: master
-        path: public
+   - install-packages:
+     packages: git ssh-client
+   - leipert/git-push:
+      gh_oauth: $GITHUB_TOKEN
+      repo: Anasme/anasme.github.io
+      branch: master
+      basedir: public
