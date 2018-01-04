@@ -11,3 +11,4 @@ deploy:
         token: $GITHUB_TOKEN
         repo: Anasme/anasme.github.io
         path: public
+        branch: master
