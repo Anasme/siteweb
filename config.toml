@@ -12,11 +12,6 @@ disableKinds=["RSS"]
   copyright = "Anas Asmi"
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "https://twitter.com/asmianas"
-
-[[params.social]]
   medium = "linkedin"
   icon = "linkedin"
   link = "https://www.linkedin.com/in/anasasmi/"
@@ -24,4 +19,4 @@ disableKinds=["RSS"]
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "https://anasme.github.io"
+  link = "https://github.com/Anasme"
