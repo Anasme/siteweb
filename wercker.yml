@@ -2,8 +2,8 @@ box: debian
 build:
   steps:
     - arjen/hugo-build@1.25.1:
-        version: "0.32.2"
-        theme: beautifulhugo
+        version: "0.40.3"
+        theme: dimension
         flags: --buildDrafts=true
 deploy:
   steps:
