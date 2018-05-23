@@ -6,6 +6,10 @@ defaultContentLanguage = "fr"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+[blackfriday]
+  hrefTargetBlank = true
+  plainIDAnchors = true
+
 [params]
   description = 'Did you try to turn it off and on again ?'
   logo = "fa-terminal"
@@ -20,3 +24,4 @@ disableKinds=["RSS"]
   medium = "github"
   icon = "github"
   link = "https://github.com/Anasme"
+  

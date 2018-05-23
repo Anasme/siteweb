@@ -2,7 +2,7 @@
 title = "Contact me"
 weight = 60
 menuname = "Contact"
-draft = true
+draft = false
 +++
 
 <form id="contactform" method="post" action="https://formspree.io/asmianas@gmail.com">
