@@ -6,6 +6,8 @@ defaultContentLanguage = "fr"
 enableRobotsTXT = true
 disableKinds=["RSS"]
 
+googleAnalytics = "UA-112015225-1"
+
 [blackfriday]
   hrefTargetBlank = true
   plainIDAnchors = true
