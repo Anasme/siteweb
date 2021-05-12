@@ -9,8 +9,7 @@ deploy:
   steps:
    - install-packages:
      packages: git ssh-client
-   - git-push:
+   - leipert/git-push:
       gh_oauth: $GH_TOKEN
-      repo: Anasme/anasme.github.io
-      branch: master
+      gh_pages: true
       basedir: public
