@@ -8,17 +8,17 @@ draft = false
 
 My Adminsys/Devops skills :
 
-- **Automation/Build tools** : Ansible, Vagrant, Docker, Kubernetes, Nexus
+- **Automation/Build tools** : Ansible, Vagrant, Docker, Kubernetes, Maven,Terraform
 - **Scripting** : Python, Bash, Powershell
-- **Middleware** : Apache, Nginx, IIS
-- **Base de données** : MySQL, PgSQL
+- **Middleware** : Apache, Nginx, IIS, Traefik, Tomcat
+- **Database** : MySQL, PgSQL, M.SQL
 - **Versionning** : GIT
-- **Méthodologie** : Agile (Scrum), ITIL
-- **Infrastructure virutalisées** : VMware, ProxMox
-- **Déploiement Continue** : gitlabCI, Jenkins
-- **Administration Système** : Linux (CentOS, Debian, Ubuntu), Windows server (2k3-2k16)
-- **Solution de monitoring** : Nagios (Centreon), Prometheus, ELK
-- **Frameworks** : Symfony
+- **Methodology** : Agile (Scrum), ITIL
+- **Hypervisor (type 1)** : VMware, ProxMox
+- **CI/CD** : gitlabCI, Jenkins, travis, wercker...
+- **Systems** : UNIX (CentOS, Debian, Ubuntu), Windows server (all)
+- **Monitoring** : Nagios (Centreon), Prometheus, ELK
+- **Messaging service**: RabbitMQ
 - **Langue** : Français courant, Anglais professionnel
 
 

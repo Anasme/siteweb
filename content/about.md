@@ -14,7 +14,7 @@ I'm **Anas Asmi**, based in the baguette country , I'm not that old and I love a
 
 > Laziness is my biggest strength... for automation ofc :)
 
-Otherwise, I'm an open minder, I like share experience with people like eating some new food or discover new experience ! My hobbies are sport and... yes food again i love making food and eat too :o)
+Otherwise, I'm an open minder, I like share experience with people like eating some new food, music... or discover new experience ! I love to challenge myself whether it is in IT or in real life, there is only like that that we can stimulate ourselves.
 
 I hope you enjoy your stay !
 
